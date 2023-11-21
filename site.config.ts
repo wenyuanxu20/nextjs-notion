@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '77SS BLOG',
-  domain: 'https://www.notion.so/77SS-BLOG-60d12d1d52f046a7ad9c337f6620fae5',
-  author: '77SS',
+  name: 'xwy BLOG',
+  domain: 'https://bolder-cactus-3b4.notion.site/BLOG-97c026d1110a43ddba28de294bc2d14a?pvs=4',
+  author: 'xwy',
 
   // open graph metadata (optional)
   description: '77ss',
