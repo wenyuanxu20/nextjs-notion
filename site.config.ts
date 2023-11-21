@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required) 60d12d1d52f046a7ad9c337f6620fae5
-  rootNotionPageId: '97c026d1110a43ddba28de294bc2d14a',
+  rootNotionPageId: '97c026d1110a43ddba28de294bc2d14a', //update here
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'xwy BLOG',
-  domain: 'https://bolder-cactus-3b4.notion.site/BLOG-97c026d1110a43ddba28de294bc2d14a?pvs=4',
+  domain: 'https://bolder-cactus-3b4.notion.site/BLOG-97c026d1110a43ddba28de294bc2d14a?pvs=4', //update here
   author: 'xwy',
 
   // open graph metadata (optional)
