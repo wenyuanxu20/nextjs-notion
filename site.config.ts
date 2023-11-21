@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required) 60d12d1d52f046a7ad9c337f6620fae5
-  rootNotionPageId: '60d12d1d52f046a7ad9c337f6620fae5',
+  rootNotionPageId: '97c026d1110a43ddba28de294bc2d14a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -14,10 +14,10 @@ export default siteConfig({
   author: 'xwy',
 
   // open graph metadata (optional)
-  description: '77ss',
+  description: 'xwy',
 
   // social usernames (optional)
-  twitter: '77',
+  twitter: 'xwy',
   github: 'https://github.com/wenyuanxu20',
   linkedin: 'xwy',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
